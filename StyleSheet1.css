@@ -1,0 +1,12 @@
+﻿.left{margin-top: 45px; margin-left:50px; border-radius:30px;}
+.right {
+    margin-top: 45px;
+    margin-left: 750px;
+    border-radius: 30px;
+}
+a {
+    color: darkorange;
+}
+    a:hover {
+        color: #f1773f !important;
+    }
